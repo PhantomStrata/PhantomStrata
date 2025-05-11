@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantomstrata&label=Profile%20views&color=0e75b6&style=flat" alt="phantomstrata" /> </p>
 
-- 🔭 I’m currently working on **Server Side Load Balancing using Artificial Algorithms on Cloud Computing**
+- 🔭 I’m currently working on **Diabetic Retinopathy using ML and DL**
 
 - 🌱 I’m currently learning **Node.js and Javascript**
 
